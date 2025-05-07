@@ -1,2 +1,2 @@
 # javascript
-https://www.programiz.com/online-compiler/55x2YgJSJVUmY
+https://www.programiz.com/online-compiler/3VrfVtaaLGJfr
